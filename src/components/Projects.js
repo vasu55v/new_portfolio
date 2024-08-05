@@ -24,7 +24,7 @@ const Projects = () => {
                    </p>
                 </div>
                 <div className='btn_div'>
-                <button id="btn">view</button>
+                <button id="btn"><a href='https://github.com/vasu55v/import_export'>view</a></button>
                 </div>
             </div>
             <div className='col-1'>
@@ -40,7 +40,7 @@ const Projects = () => {
                    </p>
                 </div>
                 <div className='btn_div'>
-                <button id="btn">view</button>
+                <button id="btn"><a href='https://github.com/vasu55v/e-com-USA-'>view</a></button>
                 </div>
             </div>
             <div className='col-1'>
@@ -56,7 +56,7 @@ const Projects = () => {
                     </p>
                 </div>
                 <div className='btn_div'>
-                <button id="btn">view</button>
+                <button id="btn"><a href='https://weather-app-z2kn.vercel.app/'>view</a></button>
                 </div>
             </div>
             <div className='col-1'>
@@ -72,7 +72,7 @@ const Projects = () => {
                    </p>
                 </div>
                 <div className='btn_div'>
-                <button id="btn">view</button>
+                <button id="btn"><a href="https://github.com/vasu55v/gemini_clone">view</a></button>
                 </div>
             </div>
             <div className='col-1'>
@@ -103,7 +103,7 @@ const Projects = () => {
                    </p>
                 </div>
                 <div className='btn_div'>
-                <button id="btn">view</button>
+                <button id="btn"><a href="https://github.com/vasu55v/dynamic_table_react">view</a></button>
                 </div>
             </div>
             
